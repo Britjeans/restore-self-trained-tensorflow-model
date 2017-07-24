@@ -1,7 +1,7 @@
 import tensorflow as tf
 import numpy as np
 import cv2
-from model.Alex import AlexNet
+from Alex import AlexNet
 import tensorflow as tf
 from readdata import readimg
 
